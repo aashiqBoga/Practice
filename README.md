@@ -15,4 +15,4 @@ edited for ssh key
 
 ssh second edit
 
-edited in linux terminal twice
+edited in linux terminal thrice
